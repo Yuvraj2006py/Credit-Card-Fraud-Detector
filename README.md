@@ -122,6 +122,7 @@ You can also build dashboards in Tableau or Power BI by connecting
 directly to the `frauddb` Postgres instance on `localhost:5432`.  A
 typical dashboard might show the proportion of fraudulent transactions,
 fraud rate by hour of the day or fraud rate by transaction amount.
+STILL NEEDS TO BE ADDED
 
 ## Architecture Diagram
 
